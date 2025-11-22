@@ -12,4 +12,4 @@ def extract_zip_file(file_path):
     os.remove(file_path)
     extract_zip_file(new_file_path)
 
-extract_zip_file("cuHSs.zip")
+extract_zip_file("<FINAL FILE NAME HERE>.zip")
